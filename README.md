@@ -10,7 +10,7 @@ Nous permettre de consolider les premiers concepts présentés dans les premiers
 
 ## Partie 1
 L’utilisateur doit saisir une valeur pour l’afficher la table de multiplication qui correspond.
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown.png)
+![](./src/assets/images/unknown.png)
 
 
 
@@ -27,11 +27,11 @@ ng generate component components/TableMultiplication
 ### Etape II
 
 Créer un code adapté a ce que l'on me demande:
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(1).png)
+![](./src/assets/images/unknown(1).png)
 Ce code sert avant tous pour la version visuel.
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(2).png)
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(3).png)
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(4).png)
+![](./src/assets/images/unknown(2).png)
+![](./src/assets/images/unknown(3).png)
+![](./src/assets/images/unknown(4).png)
 
 Chaque partie est indispenssable pour le bon fonctionnement du programme.
 
@@ -43,7 +43,7 @@ ng serve
 ```
 et se connecté au localhost
 http://localhost/4000
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(5).png)
+![](./src/assets/images/unknown(5).png)
 
 L'utilisateur a choisi son nombre et le programme a écrit la table du nombre choisi.
 
@@ -51,7 +51,7 @@ L'utilisateur a choisi son nombre et le programme a écrit la table du nombre ch
 
 L'utilisateur choisi combien de tables il veut voir et notre programme lui montrera les tables de 1 jusqu'à son nombre choisi.
 
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(12).png)
+![](./src/assets/images/unknown(12).png)
 
 ### Etape I
 
@@ -62,11 +62,11 @@ ng generate component components/TablesMultiplication
 
 ### Etape II
 Il faudra créer un code qui s'adapte au premier component créer et au parent "app.component.
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(6).png)
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(7).png)
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(8).png)
+![](./src/assets/images/unknown(6).png)
+![](./src/assets/images/unknown(7).png)
+![](./src/assets/images/unknown(8).png)
 Pour celui-ci j'ai changer de méthode pour la table afin de montrer une autre façon de faire et d'évité d'etre répetitif.
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/images/unknown(9).png)
+![](./src/assets/images/unknown(9).png)
 
 ### Etape III
 Pour tester le code et voir son rendu, il faut relancé un serveur a partir du terminal.
@@ -75,8 +75,8 @@ ng serve
 ```
 et se reconnecté au localhost
 http://localhost/4000
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/imagesunknown(10).png)
-![](/home/slam/Dev/angular/tableDeMulti/src/assets/imagesunknown(11).png)
+![](./src/assets/images/unknown(10).png)
+![](./src/assets/images/unknown(11).png)
 
 L'utilisateur a choisi le nombre de table et le programme lui a proposer les tables qui vont de 1 jusqu'au nombre choisi.
 
